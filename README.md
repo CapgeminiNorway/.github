@@ -10,4 +10,4 @@ Developers need autonomy and optionality, thus those guidelines are not set of r
 
 ## Guidelines
 
-- [New repo in GitHub](HOW-new-repo.md)
+- [New repo in GitHub](./guidelines/HOW-new-repo.md)
