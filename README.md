@@ -1,5 +1,6 @@
-# Developer Guidelines for GitHub by CapgeminiNorway  
-A shared repo about docs and info for Capgemini developers  
+# GitHub meta
+
+Common GitHub stuff for the `CapgeminiNorway` organization, as well as a shared repo about docs and info for Capgemini developers.
 
 ## What's this?   
 
@@ -7,6 +8,6 @@ The goal is to have *a common template* used by all repos (public/private) share
 
 Developers need autonomy and optionality, thus those guidelines are not set of rules but *just a gentle template to ease communication.*   
 
-## Guider
+## Guidelines
 
 - [New repo in GitHub](HOW-new-repo.md)
